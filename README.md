@@ -7,5 +7,3 @@ DEMO       - Move selected objects to layers using the configured suffix.
 UNDEMO     - Move selected objects from suffixed layers back to existing base layers.
 
 DEMOCONFIG - Change suffix, color, no-plot setting, and optionally purge empty demo layers.
-
-DEMOPURGE  - Delete empty layers that end with the configured suffix.
